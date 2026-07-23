@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rafael%20J%20Granado%20Martínez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Systems%20%26%20AI%20Engineering&descAlignY=55&descSize=18)
 
 <a href="https://github.com/RafaelGranadoMartinez">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UPRM;Aerospace+Systems+%2B+AI%2FML+Enthusiast;Building+KAIROS+for+NASA+ORBIT+2027;Full-Stack+%2B+Simulation+%2B+Data+Annotation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UPRM;Aerospace+Systems+%2B+AI%2FML+Enthusiast;NASA+RASC-AL+Power+%26+Electrical+Systems;Full-Stack+%2B+Simulation+%2B+Data+Annotation" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,14 +37,14 @@
 
 ## 🪐 About Me
 
-I'm a fourth-year Computer Engineering student at the **University of Puerto Rico at Mayagüez**, minoring in Project Management under a BRIGHT-CE Scholarship, working at the intersection of **aerospace systems engineering, AI/ML model evaluation, and full-stack development**.
+I'm a fourth-year Computer Engineering student at the **University of Puerto Rico at Mayagüez**, minoring in Project Management under a BRIGHT-CE Scholarship. I work at the intersection of aerospace systems engineering, AI/ML model evaluation, and full-stack development.
 
-- 🚀 Currently sharpening **KAIROS**, a modular PNTC lunar payload concept, for **NASA's ORBIT 2027** competition — moving toward tightly-coupled IMU+RF sensor fusion with passive lunar environmental aiding.
-- 🧠 Working as an **AI Data Quality / Model Evaluation Contributor** on Outlier's OpenClaw program — building silver trajectories, weighted rubrics, and pytest verification suites for agentic AI systems.
-- 💼 Software contributor at **Oracle** *(role details in progress — see Experience)*.
-- 🛠️ Built and maintain **By Estefania**, a full-stack Vite + React e-commerce platform for a handmade jewelry business.
-- 🌐 Bilingual — native Spanish and English.
-- 🔭 **Open to:** aerospace/electrical engineering internships, AI annotation/eval contract work, and research collaborations in systems engineering.
+- 🚀 Co-Lead Power and Electrical Systems Engineer for **NASA RASC-AL**, supporting lunar mission power architecture and RF communications design.
+- 🧠 AI Model Evaluation Contributor at **Outlier's OpenClaw program**, building silver trajectories, weighted rubrics, and pytest verification suites for agentic AI systems.
+- 💼 AI Model Evaluation Contributor at **Oracle**, working in an IDE based environment to identify and fix issues in AI model verifiers.
+- 🛠️ Built and maintain **By Estefania**, a full-stack Vite and React e-commerce platform for a handmade jewelry business.
+- 🌐 Bilingual, native Spanish and English.
+- 🔭 Open to aerospace and electrical engineering internships, AI annotation and evaluation contract work, and research collaborations in systems engineering.
 
 ---
 
@@ -84,85 +84,67 @@ I'm a fourth-year Computer Engineering student at the **University of Puerto Ric
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Agentic Trajectory Evaluation | Advanced | Multi-step AI trajectory design/evaluation across scheduling, compliance, and privacy domains |
+| Agentic Trajectory Evaluation | Advanced | Multi step AI trajectory design and evaluation across scheduling, compliance, and privacy domains |
 | Rubric Design | Advanced | Binary pass/fail rubrics spanning task completion, instruction following, factuality, and tool use |
-| Model Verification (PyTest) | Advanced | Automated test suites validating AI-generated CSV, ICS, and Markdown artifacts |
+| Model Verification (PyTest) | Advanced | Automated test suites validating AI generated CSV, ICS, and Markdown artifacts |
 | Silver Trajectory Correction | Intermediate | Iterative prompt interventions guiding models toward correct end states |
-| Failure Analysis | Advanced | Evidence-grounded failure justification writing for model evaluation pipelines |
+| Failure Analysis | Advanced | Evidence grounded failure justification writing for model evaluation pipelines |
 
 ---
 
 ## 🛰️ Featured Projects
 
 <details>
-<summary><b>KAIROS — Modular Lunar PNTC Payload (NASA ORBIT 2027)</b></summary>
+<summary><b>NASA RASC-AL SPARC: Lunar Power & Communications Architecture</b></summary>
 
 <br/>
 
-A modular positioning, navigation, timing, and communications (PNTC) payload architecture designed for lunar surface operations, currently being repositioned as a systems-architecture entry for NASA's ORBIT 2027 competition.
-
-| | |
-|---|---|
-| **Stack** | MATLAB/Simulink, RF/IMU Sensor Fusion, Systems Architecture |
-| **Scale** | Competition-grade lunar mission concept |
-| **Performance** | Deeply-coupled IMU+RF fusion with passive lunar environmental aiding |
-| **Security** | N/A (mission concept phase) |
-| **Impact** | Competing in NASA ORBIT 2027 |
-| **Repository** | Private — available on request |
-
-</details>
-
-<details>
-<summary><b>NASA RASC-AL SPARC — Lunar Power & Communications Architecture</b></summary>
-
-<br/>
-
-Led power/electrical systems and RF communications architecture for a NASA RASC-AL lunar mission concept, integrating LunaNet, LCRNS, DSN/DSOC, and Lunar Pathfinder relay assets, with MATLAB/Simulink modeling of power distribution and battery performance.
+Led power and electrical systems architecture and RF communications design for a NASA RASC-AL lunar mission concept, integrating LunaNet, LCRNS, DSN/DSOC, and Lunar Pathfinder relay assets, with MATLAB/Simulink modeling of power distribution and battery performance.
 
 | | |
 |---|---|
 | **Stack** | MATLAB/Simulink, RF Systems, CONOPS Design |
 | **Scale** | Full mission subsystem architecture |
-| **Performance** | Validated models across mission thermal/power extremes |
-| **Security** | N/A (academic/competition project) |
+| **Performance** | Validated models across mission thermal and power extremes |
+| **Security** | Not applicable, academic and competition project |
 | **Impact** | NASA RASC-AL 2026 deliverable |
-| **Repository** | Private — available on request |
+| **Repository** | Private, available on request |
 
 </details>
 
 <details>
-<summary><b>By Estefania — Full-Stack E-Commerce Platform</b></summary>
+<summary><b>By Estefania: Full-Stack E-Commerce Platform</b></summary>
 
 <br/>
 
-A Vite + React e-commerce site built end-to-end for a handmade jewelry business, including product catalog and custom UI interactions.
+A Vite and React e-commerce site built end to end for a handmade jewelry business, including product catalog and custom UI interactions.
 
 | | |
 |---|---|
 | **Stack** | React, Vite, JavaScript, CSS |
 | **Scale** | Full production storefront |
-| **Performance** | Fast dev/build pipeline via Vite |
-| **Security** | Standard client-side best practices |
+| **Performance** | Fast dev and build pipeline via Vite |
+| **Security** | Standard client side best practices |
 | **Impact** | Live business platform |
-| **Repository** | Private — available on request |
+| **Repository** | Private, available on request |
 
 </details>
 
 <details>
-<summary><b>Tanks! & PacMan — C++ Game Systems (UPRM Coursework)</b></summary>
+<summary><b>Tanks! & PacMan: C++ Game Systems (UPRM Coursework)</b></summary>
 
 <br/>
 
-Team-based C++ game engine projects: rebuilt enemy inheritance hierarchies and recursive collision systems in Tanks!, and extended a finite-state-machine architecture with new game states and power-up systems in PacMan.
+Team based C++ game engine projects. Rebuilt enemy inheritance hierarchies and recursive collision systems in Tanks!, and extended a finite state machine architecture with new game states and power up systems in PacMan.
 
 | | |
 |---|---|
 | **Stack** | C++, Custom Game Engine, Raylib |
-| **Scale** | Two-person team projects |
+| **Scale** | Two person team projects |
 | **Performance** | Recursive collision detection, custom state machines |
-| **Security** | N/A (academic project) |
-| **Impact** | Coursework — CIIC-4010/ICOM4015 |
-| **Repository** | Private — available on request |
+| **Security** | Not applicable, academic project |
+| **Impact** | Coursework, CIIC-4010/ICOM4015 |
+| **Repository** | Private, available on request |
 
 </details>
 
@@ -173,9 +155,9 @@ Team-based C++ game engine projects: rebuilt enemy inheritance hierarchies and r
 **AI Model Evaluation Contributor** · Outlier (OpenClaw Program)
 `2026 – Present`
 
-Designing and evaluating multi-step agentic AI trajectories, authoring failure justifications, and writing PyTest verification suites to audit AI-generated artifacts.
+Designing and evaluating multi step agentic AI trajectories, authoring failure justifications, and writing PyTest verification suites to audit AI generated artifacts.
 
-- Built corrective silver trajectories via targeted prompt interventions
+- Built corrective silver trajectories through targeted prompt interventions
 - Created binary pass/fail rubrics across five evaluation categories
 - Automated artifact verification for CSV, ICS, and Markdown outputs
 
@@ -199,7 +181,7 @@ Leading power architecture development, trade studies, and RF beacon subsystem d
 **AI Model Evaluation Contributor** · Oracle
 `May 2026 – Present`
 
-Working within an IDE-based environment to identify and fix issues in AI model verifiers.
+Working in an IDE based environment to identify and fix issues in AI model verifiers.
 
 `Python`
 
@@ -211,8 +193,7 @@ Working within an IDE-based environment to identify and fix issues in AI model v
 
 | Recognition | Details |
 |---|---|
-| BRIGHT-CE Scholarship | Awarded 2023–2024, University of Puerto Rico at Mayagüez |
-| NASA ORBIT 2027 Competitor | Systems architecture lead for KAIROS lunar payload concept |
+| BRIGHT-CE Scholarship | Awarded 2023 to 2024, University of Puerto Rico at Mayagüez |
 | NASA RASC-AL 2026 | Co-Lead, Power & Electrical Systems Engineer |
 
 </div>
@@ -286,20 +267,20 @@ Working within an IDE-based environment to identify and fix issues in AI model v
 
 ```yaml
 Learning:
-  - Deeply-coupled IMU+RF sensor fusion for lunar navigation
   - Advanced requirements management practices
+  - RF and power systems design for aerospace applications
 
 Building:
-  - KAIROS PNTC payload for NASA ORBIT 2027
+  - NASA RASC-AL lunar power and communications architecture
   - By Estefania e-commerce platform
 
 Exploring:
-  - Aerospace/electrical engineering internship opportunities
+  - Aerospace and electrical engineering internship opportunities
   - AI/ML evaluation methodologies at scale
 
 Open To:
-  - Aerospace & Electrical Engineering Internships
-  - AI Data Annotation / Model Evaluation Contract Work
+  - Aerospace and Electrical Engineering Internships
+  - AI Data Annotation and Model Evaluation Contract Work
   - Systems Engineering Research Collaborations
 ```
 
@@ -325,7 +306,7 @@ Open To:
 
 <div align="center">
 
-*"Systems that reach the Moon are built by engineers who sweat the details on Earth."*
+*Systems that reach the Moon are built by engineers who sweat the details on Earth.*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
