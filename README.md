@@ -40,8 +40,7 @@
 I'm a fourth-year Computer Engineering student at the **University of Puerto Rico at Mayagüez**, minoring in Project Management. I work at the intersection of aerospace systems engineering, AI/ML model evaluation, and full-stack development.
 
 - 🚀 Co-Lead Power and Electrical Systems Engineer for **NASA RASC-AL**, supporting lunar mission power architecture and RF communications design.
-- 🧠 AI Model Evaluation Contributor at **Outlier**, supporting AI model evaluation and quality assurance work.
-- 💼 AI Model Evaluation Contributor at **Oracle**, working in an IDE based environment to identify and fix issues in AI model verifiers.
+- 🧠 AI Model Evaluation Contributor at **Outlier**, working in an IDE based environment on AI model evaluation and quality assurance, including identifying and fixing issues in AI model verifiers.
 - 🛠️ Full-stack development experience with React and Vite, building production-ready web applications.
 - 🌐 Bilingual, native Spanish and English.
 - 🔭 Open to aerospace and electrical engineering internships, AI annotation and evaluation contract work, and research collaborations in systems engineering.
@@ -137,11 +136,11 @@ Team based C++ game engine projects. Rebuilt enemy inheritance hierarchies and r
 **AI Model Evaluation Contributor** · Outlier
 `2026 – Present`
 
-Contributing to AI model evaluation and quality assurance initiatives, focused on assessing and improving AI system outputs.
+Contributing to AI model evaluation and quality assurance initiatives in an IDE based environment, focused on assessing and improving AI system outputs and fixing issues in AI model verifiers.
 
 - Evaluated AI generated outputs for quality, correctness, and reliability
 - Contributed to structured evaluation criteria used in model assessment
-- Supported testing and verification processes for AI generated artifacts
+- Identified and resolved issues in AI model verifiers
 
 `Python` `PyTest` `AI Evaluation`
 
@@ -157,15 +156,6 @@ Leading power architecture development, trade studies, and RF beacon subsystem d
 - Ran engineering calculations for subsystem verification and validation
 
 `MATLAB/Simulink` `Systems Engineering` `RF Systems`
-
-<br/>
-
-**AI Model Evaluation Contributor** · Oracle
-`May 2026 – Present`
-
-Working in an IDE based environment to identify and fix issues in AI model verifiers.
-
-`Python`
 
 ---
 
