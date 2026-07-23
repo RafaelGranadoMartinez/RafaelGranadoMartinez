@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rafael%20J%20Granado%20Mart%C3%ADnez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Systems%20and%20AI%20Engineering&descAlignY=55&descSize=18)
 
 <a href="https://github.com/RafaelGranadoMartinez">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UPRM;Aerospace+Systems+%2B+AI%2FML+Enthusiast;NASA+RASC-AL+Power+and+Electrical+Systems;Full-Stack+%2B+Simulation+%2B+Data+Annotation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UPRM;Aerospace+Systems+%2B+AI%2FML+Enthusiast;NASA+RASC-AL+Power+and+Electrical+Systems;Full-Stack+%2B+Simulation+%2B+Data+Annotation" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,13 +16,13 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/rafael-j-granado-martinez-9680b42b0/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:rafael.granado@upr.edu">
-  <img src="https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/RafaelGranadoMartinez">
-  <img src="https://img.shields.io/badge/GitHub-Follow-4c1d95?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-4c1d95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -35,19 +35,19 @@
 
 ---
 
-## 🪐 About Me
+## About Me
 
 I'm a fourth-year Computer Engineering student at the **University of Puerto Rico at Mayagüez**, minoring in Project Management. I work at the intersection of aerospace systems engineering, AI/ML model evaluation, and full-stack development.
 
-- 🚀 Co-Lead Power and Electrical Systems Engineer for **NASA RASC-AL**, supporting lunar mission power architecture and RF communications design.
-- 🧠 AI Model Evaluation Contributor at **Outlier**, working in an IDE based environment on AI model evaluation and quality assurance, including identifying and fixing issues in AI model verifiers.
-- 🛠️ Full-stack development experience with React and Vite, building production-ready web applications.
-- 🌐 Bilingual, native Spanish and English.
-- 🔭 Open to aerospace and electrical engineering internships, AI annotation and evaluation contract work, and research collaborations in systems engineering.
+- Co-Lead Power and Electrical Systems Engineer for **NASA RASC-AL**, supporting lunar mission power architecture and RF communications design.
+- AI Model Evaluation Contributor at **Outlier**, working in an IDE based environment on AI model evaluation and quality assurance, including identifying and fixing issues in AI model verifiers.
+- Full-stack development experience with React and Vite, building production-ready web applications.
+- Bilingual, native Spanish and English.
+- Open to aerospace and electrical engineering internships, AI annotation and evaluation contract work, and research collaborations in systems engineering.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -79,7 +79,7 @@ I'm a fourth-year Computer Engineering student at the **University of Puerto Ric
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -91,7 +91,7 @@ I'm a fourth-year Computer Engineering student at the **University of Puerto Ric
 
 ---
 
-## 🛰️ Featured Projects
+## Featured Projects
 
 <details>
 <summary><b>NASA RASC-AL NOVA: Lunar Power & Communications Architecture</b></summary>
@@ -131,7 +131,7 @@ Team based C++ game engine projects. Rebuilt enemy inheritance hierarchies and r
 
 ---
 
-## 💼 Experience
+## Experience
 
 **AI Model Evaluation Contributor** · Outlier
 `2026 – Present`
@@ -159,35 +159,35 @@ Leading power architecture development, trade studies, and RF beacon subsystem d
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 **NASA**
 
 <a href="https://github.com/RafaelGranadoMartinez/RafaelGranadoMartinez/blob/main/certs/nasa.png">
-  <img src="https://img.shields.io/badge/NASA%20Open%20Science%20Essentials-2026-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+<img src="https://img.shields.io/badge/NASA%20Open%20Science%20Essentials-2026-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
 </a>
 
 **MathWorks**
 
 <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=5314079b-5ebe-4c96-9715-069aa4165281&">
-  <img src="https://img.shields.io/badge/MATLAB%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </a>
 <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=03af9a8c-6cad-40aa-9410-60a0aa371dec&">
-  <img src="https://img.shields.io/badge/Simulink%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Simulink%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </a>
 <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fa5dd31f-a625-4aa2-8625-21149b29d693&">
-  <img src="https://img.shields.io/badge/Simscape%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Simscape%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </a>
 
 **INROADS**
 
 <a href="https://github.com/RafaelGranadoMartinez/RafaelGranadoMartinez/blob/main/certs/inroads.png">
-  <img src="https://img.shields.io/badge/Workforce%20Development%20Program-2026-facc15?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Workforce%20Development%20Program-2026-facc15?style=for-the-badge"/>
 </a>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -202,7 +202,7 @@ Leading power architecture development, trade studies, and RF beacon subsystem d
 
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -212,7 +212,7 @@ Leading power architecture development, trade studies, and RF beacon subsystem d
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -222,7 +222,7 @@ Leading power architecture development, trade studies, and RF beacon subsystem d
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -232,40 +232,40 @@ Leading power architecture development, trade studies, and RF beacon subsystem d
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
-  - Advanced requirements management practices
-  - RF and power systems design for aerospace applications
+- Advanced requirements management practices
+- RF and power systems design for aerospace applications
 
 Building:
-  - NASA RASC-AL lunar power and communications architecture
+- NASA RASC-AL lunar power and communications architecture
 
 Exploring:
-  - Aerospace and electrical engineering internship opportunities
-  - AI/ML evaluation methodologies at scale
+- Aerospace and electrical engineering internship opportunities
+- AI/ML evaluation methodologies at scale
 
 Open To:
-  - Aerospace and Electrical Engineering Internships
-  - AI Data Annotation and Model Evaluation Contract Work
-  - Systems Engineering Research Collaborations
+- Aerospace and Electrical Engineering Internships
+- AI Data Annotation and Model Evaluation Contract Work
+- Systems Engineering Research Collaborations
 ```
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
 <a href="mailto:rafael.granado@upr.edu">
-  <img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-6d28d9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/rafael-j-granado-martinez-9680b42b0/">
-  <img src="https://img.shields.io/badge/LinkedIn-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-5b21b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/RafaelGranadoMartinez">
-  <img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
