@@ -37,12 +37,12 @@
 
 ## 🪐 About Me
 
-I'm a fourth-year Computer Engineering student at the **University of Puerto Rico at Mayagüez**, minoring in Project Management under a BRIGHT-CE Scholarship. I work at the intersection of aerospace systems engineering, AI/ML model evaluation, and full-stack development.
+I'm a fourth-year Computer Engineering student at the **University of Puerto Rico at Mayagüez**, minoring in Project Management. I work at the intersection of aerospace systems engineering, AI/ML model evaluation, and full-stack development.
 
 - 🚀 Co-Lead Power and Electrical Systems Engineer for **NASA RASC-AL**, supporting lunar mission power architecture and RF communications design.
-- 🧠 AI Model Evaluation Contributor at **Outlier's OpenClaw program**, building silver trajectories, weighted rubrics, and pytest verification suites for agentic AI systems.
+- 🧠 AI Model Evaluation Contributor at **Outlier**, supporting AI model evaluation and quality assurance work.
 - 💼 AI Model Evaluation Contributor at **Oracle**, working in an IDE based environment to identify and fix issues in AI model verifiers.
-- 🛠️ Built and maintain **By Estefania**, a full-stack Vite and React e-commerce platform for a handmade jewelry business.
+- 🛠️ Full-stack development experience with React and Vite, building production-ready web applications.
 - 🌐 Bilingual, native Spanish and English.
 - 🔭 Open to aerospace and electrical engineering internships, AI annotation and evaluation contract work, and research collaborations in systems engineering.
 
@@ -84,18 +84,18 @@ I'm a fourth-year Computer Engineering student at the **University of Puerto Ric
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Agentic Trajectory Evaluation | Advanced | Multi step AI trajectory design and evaluation across scheduling, compliance, and privacy domains |
-| Rubric Design | Advanced | Binary pass/fail rubrics spanning task completion, instruction following, factuality, and tool use |
-| Model Verification (PyTest) | Advanced | Automated test suites validating AI generated CSV, ICS, and Markdown artifacts |
-| Silver Trajectory Correction | Intermediate | Iterative prompt interventions guiding models toward correct end states |
-| Failure Analysis | Advanced | Evidence grounded failure justification writing for model evaluation pipelines |
+| AI Model Evaluation | Advanced | Evaluating AI system outputs for quality, correctness, and reliability |
+| Rubric Design | Advanced | Structured evaluation criteria for assessing AI model performance |
+| Model Verification (PyTest) | Advanced | Automated testing approaches for validating AI generated outputs |
+| Iterative Model Correction | Intermediate | Guiding model outputs toward improved accuracy through iterative review |
+| Failure Analysis | Advanced | Identifying and documenting issues in AI model behavior |
 
 ---
 
 ## 🛰️ Featured Projects
 
 <details>
-<summary><b>NASA RASC-AL SPARC: Lunar Power & Communications Architecture</b></summary>
+<summary><b>NASA RASC-AL NOVA: Lunar Power & Communications Architecture</b></summary>
 
 <br/>
 
@@ -108,24 +108,6 @@ Led power and electrical systems architecture and RF communications design for a
 | **Performance** | Validated models across mission thermal and power extremes |
 | **Security** | Not applicable, academic and competition project |
 | **Impact** | NASA RASC-AL 2026 deliverable |
-| **Repository** | Private, available on request |
-
-</details>
-
-<details>
-<summary><b>By Estefania: Full-Stack E-Commerce Platform</b></summary>
-
-<br/>
-
-A Vite and React e-commerce site built end to end for a handmade jewelry business, including product catalog and custom UI interactions.
-
-| | |
-|---|---|
-| **Stack** | React, Vite, JavaScript, CSS |
-| **Scale** | Full production storefront |
-| **Performance** | Fast dev and build pipeline via Vite |
-| **Security** | Standard client side best practices |
-| **Impact** | Live business platform |
 | **Repository** | Private, available on request |
 
 </details>
@@ -152,20 +134,20 @@ Team based C++ game engine projects. Rebuilt enemy inheritance hierarchies and r
 
 ## 💼 Experience
 
-**AI Model Evaluation Contributor** · Outlier (OpenClaw Program)
+**AI Model Evaluation Contributor** · Outlier
 `2026 – Present`
 
-Designing and evaluating multi step agentic AI trajectories, authoring failure justifications, and writing PyTest verification suites to audit AI generated artifacts.
+Contributing to AI model evaluation and quality assurance initiatives, focused on assessing and improving AI system outputs.
 
-- Built corrective silver trajectories through targeted prompt interventions
-- Created binary pass/fail rubrics across five evaluation categories
-- Automated artifact verification for CSV, ICS, and Markdown outputs
+- Evaluated AI generated outputs for quality, correctness, and reliability
+- Contributed to structured evaluation criteria used in model assessment
+- Supported testing and verification processes for AI generated artifacts
 
-`Python` `PyTest` `AI Evaluation` `Prompt Engineering`
+`Python` `PyTest` `AI Evaluation`
 
 <br/>
 
-**Co-Lead, Power & Electrical Systems Engineer** · NASA RASC-AL SPARC
+**Co-Lead, Power & Electrical Systems Engineer** · NASA RASC-AL NOVA
 `Jan 2026 – Present`
 
 Leading power architecture development, trade studies, and RF beacon subsystem design for a lunar mission concept.
@@ -187,34 +169,31 @@ Working in an IDE based environment to identify and fix issues in AI model verif
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| BRIGHT-CE Scholarship | Awarded 2023 to 2024, University of Puerto Rico at Mayagüez |
-| NASA RASC-AL 2026 | Co-Lead, Power & Electrical Systems Engineer |
-
-</div>
-
----
-
 ## 📜 Certifications
 
 **NASA**
 
-![NASA](https://img.shields.io/badge/NASA%20Open%20Science%20Essentials-2026-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
+<a href="https://github.com/RafaelGranadoMartinez/RafaelGranadoMartinez/blob/main/certs/nasa.png">
+  <img src="https://img.shields.io/badge/NASA%20Open%20Science%20Essentials-2026-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
+</a>
 
 **MathWorks**
 
-![MATLAB](https://img.shields.io/badge/MATLAB%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simscape](https://img.shields.io/badge/Simscape%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white)
+<a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=5314079b-5ebe-4c96-9715-069aa4165281&">
+  <img src="https://img.shields.io/badge/MATLAB%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</a>
+<a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=03af9a8c-6cad-40aa-9410-60a0aa371dec&">
+  <img src="https://img.shields.io/badge/Simulink%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</a>
+<a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=fa5dd31f-a625-4aa2-8625-21149b29d693&">
+  <img src="https://img.shields.io/badge/Simscape%20Onramp-2025-8b5cf6?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</a>
 
 **INROADS**
 
-![INROADS](https://img.shields.io/badge/Workforce%20Development%20Program-2026-facc15?style=for-the-badge)
+<a href="https://github.com/RafaelGranadoMartinez/RafaelGranadoMartinez/blob/main/certs/inroads.png">
+  <img src="https://img.shields.io/badge/Workforce%20Development%20Program-2026-facc15?style=for-the-badge"/>
+</a>
 
 ---
 
@@ -272,7 +251,6 @@ Learning:
 
 Building:
   - NASA RASC-AL lunar power and communications architecture
-  - By Estefania e-commerce platform
 
 Exploring:
   - Aerospace and electrical engineering internship opportunities
