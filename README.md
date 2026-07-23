@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rafael%20J%20Granado%20Martínez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Systems%20%26%20AI%20Engineering&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rafael%20J%20Granado%20Mart%C3%ADnez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Systems%20%26%20AI%20Engineering&descAlignY=55&descSize=18)
 
 <a href="https://github.com/RafaelGranadoMartinez">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+UPRM;Aerospace+Systems+%2B+AI%2FML+Enthusiast;NASA+RASC-AL+Power+%26+Electrical+Systems;Full-Stack+%2B+Simulation+%2B+Data+Annotation" alt="Typing SVG" />
